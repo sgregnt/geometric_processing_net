@@ -20,3 +20,8 @@ Outputs
 
 - w_ij used to assemble Hessian. Where the Hessian is assumed to have graph Laplacian like structure (see `assemble_h.py` to see how Hessian is assembled form w_ij)
 
+
+# Running the framework 
+
+- To see example of a network 
+
