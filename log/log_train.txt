@@ -1,0 +1,1 @@
+Namespace(batch_size=32, decay_rate=0.8, decay_step=100000, gpu=0, learning_rate=0.01, log_dir='log', max_epoch=1500, model='meshnet', momentum=0.9, optimizer='adam')

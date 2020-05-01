@@ -70,8 +70,6 @@ def get_model(v, displacement, edges_ss, edges_ss_n, is_training, final_activati
     edges_expanded = tf.expand_dims(edges_ss, axis=2)
     concat_feat = tf.concat([edges_expanded, global_feat_expand], 3)
 
-
-
     net = tf_util.conv2d(concat_feat, 512, [1, 1],
                          padding='VALID', stride=[1, 1],
                          bn=True, is_training=is_training,
