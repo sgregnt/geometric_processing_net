@@ -23,5 +23,8 @@ Outputs
 
 # Running the framework 
 
-- To see example of a network 
+The frameworks provides tools to generated data for network training for visualization and various axilluary geometric processing function to run energy calcualtion and derivations as well as some optimization tools to compare results with basis non convex optimization schemes. To get started run `network_test.py` this runs the provided pretrained network to produce second order prediction for the energy around a few random deformations. Then the second order approximation is compared with actual  values of the energy along a certain direction (in the high-dimensional space of the deformations).  
+
+![input example](https://github.com/sgregnt/geometric_processing_net/blob/master/pics/mesh_with_displacments.png "Vertex set on 2D mesh with its displacment")
+
 
