@@ -25,6 +25,15 @@ Outputs
 
 The frameworks provides tools to generated data for network training for visualization and various axilluary geometric processing function to run energy calcualtion and derivations as well as some optimization tools to compare results with basis non convex optimization schemes. To get started run `network_test.py` this runs the provided pretrained network to produce second order prediction for the energy around a few random deformations. Then the second order approximation is compared with actual  values of the energy along a certain direction (in the high-dimensional space of the deformations).  
 
-![input example](https://github.com/sgregnt/geometric_processing_net/blob/master/pics/mesh_with_displacments.png "Vertex set on 2D mesh with its displacment")
-
+- Example of input to the network, a vert3ex set and its displacment (the error ending with red dot) drawen using [libigl](https://libigl.github.io/)
 <img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/mesh_with_displacments.png" width="40%">
+
+- The resulting displaced mesh 
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/displaced_mesh.png" width="40%">
+
+- Comparing estimated energy (seciond order estimation with Hessian computed using pretrained network) with the actual energy (a long single discent direction)
+
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_1.png" width="20%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_2.png" width="20%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_3.png" width="20%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_4.png" width="20%">
