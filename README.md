@@ -32,15 +32,10 @@ The frameworks provides tools to generated data for network training for visuali
 <img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/displaced_mesh.png" width="40%">
 
 - Comparing estimated energy (seciond order estimation with Hessian computed using pretrained network) with the actual energy (a long single discent direction)
-<body>
+
+<p float="left">
 <img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_1.png" width="20%">
 <img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_2.png" width="20%">
 <img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_3.png" width="20%">
 <img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_4.png" width="20%">
-</body>
-<ul>
-    <li><img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_1.png" width="20%"></li>
-    <li><h1></h1>
-    <li><img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_2.png" width="20%"></li>
-</ul>
-
+</p>
