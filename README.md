@@ -27,4 +27,4 @@ The frameworks provides tools to generated data for network training for visuali
 
 ![input example](https://github.com/sgregnt/geometric_processing_net/blob/master/pics/mesh_with_displacments.png "Vertex set on 2D mesh with its displacment")
 
-
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/mesh_with_displacments.png" width="40%">
