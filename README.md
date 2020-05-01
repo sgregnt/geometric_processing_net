@@ -1,4 +1,4 @@
-# geometric_processing_net
+# The geometric_processing_net framework
 
 Neural network architecture for training on mesh or vertes set of a mesh. 
 The architecture is based on [PointNet](http://stanford.edu/~rqi/pointnet/).
