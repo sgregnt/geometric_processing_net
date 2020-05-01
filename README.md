@@ -34,8 +34,8 @@ The frameworks provides tools to generated data for network training for visuali
 - Comparing estimated energy (seciond order estimation with Hessian computed using pretrained network) with the actual energy (a long single discent direction)
 
 <p float="left">
-<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_1.png" width="25%">
-<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_2.png" width="25%">
-<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_3.png" width="25%">
-<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_4.png" width="25%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_1.png" width="35%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_2.png" width="35%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_3.png" width="35%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_4.png" width="35%">
 </p>
